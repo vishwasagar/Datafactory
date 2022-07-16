@@ -1,0 +1,13 @@
+{
+	"name": "hubspotcompanies",
+	"properties": {
+		"description": "hubspotcompanies",
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://api.hubapi.com/companies/v2/companies/paged?hapikey=demo&properties=name&properties=website&limit=2",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
