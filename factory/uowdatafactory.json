@@ -1,0 +1,9 @@
+{
+	"name": "uowdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f685a80-df8d-4dd3-9626-6190449cb66e",
+		"tenantId": "67eef1c4-eb38-428c-9418-36a1843e158c"
+	}
+}
